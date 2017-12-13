@@ -1,13 +1,13 @@
-INSTALL Flask_shoppingList
+### INSTALL Flask_shoppingList
 
-Make sure virtualenv and autoenv is installed
+- Make sure _virtualenv_ and _autoenv_ is installed
 
-Create an isolated virtual environment: pip install flaskenv
-Install Autoenv globally: pip install autoenv
+- Create an isolated virtual environment: _pip install flaskenv_
+- Install Autoenv globally: _pip install autoenv_
 
-pip install requirements.txt to install needed plugins
-Run source .env to activate the flaskenv
+- _pip install requirements.txt_ to install needed plugins
+- Run _source .env_ to activate the flaskenv
 
-use flask run to run it
+- use _flask run_ to run it
 
 Happy coding!
