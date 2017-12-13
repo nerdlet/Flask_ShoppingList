@@ -1,4 +1,4 @@
-### INSTALL Flask_shoppingList
+### Install Flask_shoppingList
 
 - Make sure _virtualenv_ and _autoenv_ is installed
 
