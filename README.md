@@ -8,4 +8,6 @@ Install Autoenv globally: pip install autoenv
 pip install requirements.txt to install needed plugins
 Run source .env to activate the flaskenv
 
+use flask run to run it
+
 Happy coding!
