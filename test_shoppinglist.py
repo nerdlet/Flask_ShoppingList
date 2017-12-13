@@ -36,7 +36,7 @@ class ShoppinglistTestCase(unittest.TestCase):
         """Test API can delete an existing shoppinglist. (DELETE request)."""
         rv = self.client().post(
             '/shoppinglists/',
-            data={'name': 'flour,meat,carots'})
+            data={'name': 'flour,meat,carrots'})
         self.assertEqual(rv.status_code, 201)
         res = self.client().delete('/shoppinglists/1')
         self.assertEqual(res.status_code, 200)
